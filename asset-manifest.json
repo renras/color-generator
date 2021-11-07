@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/color-generator/static/css/main.4fa5b450.chunk.css",
+    "main.js": "/color-generator/static/js/main.efad86c4.chunk.js",
+    "main.js.map": "/color-generator/static/js/main.efad86c4.chunk.js.map",
+    "runtime-main.js": "/color-generator/static/js/runtime-main.01f0426c.js",
+    "runtime-main.js.map": "/color-generator/static/js/runtime-main.01f0426c.js.map",
+    "static/js/2.d26d3835.chunk.js": "/color-generator/static/js/2.d26d3835.chunk.js",
+    "static/js/2.d26d3835.chunk.js.map": "/color-generator/static/js/2.d26d3835.chunk.js.map",
+    "index.html": "/color-generator/index.html",
+    "static/css/main.4fa5b450.chunk.css.map": "/color-generator/static/css/main.4fa5b450.chunk.css.map",
+    "static/js/2.d26d3835.chunk.js.LICENSE.txt": "/color-generator/static/js/2.d26d3835.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01f0426c.js",
+    "static/js/2.d26d3835.chunk.js",
+    "static/css/main.4fa5b450.chunk.css",
+    "static/js/main.efad86c4.chunk.js"
+  ]
+}
